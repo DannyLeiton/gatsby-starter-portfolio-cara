@@ -10,7 +10,7 @@ A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience
 
 - TailwindCSS & Emotion
 - React Spring
-- Playful & Colorful One-Page website with Parallax effect
+- Tremēns Technologies: Making useful software
 
 Based on [gatsby-tailwind-demo](https://github.com/jlengstorf/gatsby-tailwind-demo).
 
@@ -85,12 +85,12 @@ You have multiple options to configure this project.
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "/portfolio"
 
-  siteTitle: 'Cara - Gatsby Starter Portfolio', // Navigation and Site Title
-  siteTitleAlt: 'Cara', // Alternative Site title for SEO
-  siteUrl: 'https://portfolio-cara.netlify.com', // Domain of your site. No trailing slash!
+  siteTitle: 'Tremēns Technologies', // Navigation and Site Title
+  siteTitleAlt: 'Tremēns Technologies', // Alternative Site title for SEO
+  siteUrl: 'https://tremens.tech', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
-  siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
+  siteDescription: 'Tremēns Technologies: Making useful software',
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@cara', // Twitter Username
