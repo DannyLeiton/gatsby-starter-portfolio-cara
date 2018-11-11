@@ -182,21 +182,18 @@ const Index = () => (
             </ProjectCard>
             <ProjectCard
               title="Bretico"
-              link="https://www.bretico.com"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
               Service platform to promote economy.
             </ProjectCard>
             <ProjectCard
               title="B+"
-              link="https://www.bpositivo.com"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
               B positivo: Education for all!
             </ProjectCard>
             <ProjectCard
               title="Tiliche"
-              link="https://www.behance.net/gallery/38068151/Eagle"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
               App for toy donation.
